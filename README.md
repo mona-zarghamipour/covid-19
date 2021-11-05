@@ -4,6 +4,7 @@ This is my first experience training a model. I would appreciate any feedback!
 the data set https://www.kaggle.com/gpreda/covid-world-vaccination-progress
 '2020-12-27', '2021-07-15'
 Content
+
 The data (country vaccinations) contains the following information:
 •	Country- this is the country for which the vaccination information is provided;
 •	Country ISO Code - ISO code for the country;
