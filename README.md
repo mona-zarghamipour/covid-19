@@ -1,7 +1,7 @@
 # covid-19
 covid-19-vaccinations-visualization-prediction-Germany and Switzerland
 
-Hello:) 
+Hello :) 
 
 This is my first experience training a model. I would appreciate any feedback!
 
